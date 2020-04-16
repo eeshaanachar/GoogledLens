@@ -1,1 +1,1 @@
-# GoogledLens
+A neural networks project inspired by Google Lens
